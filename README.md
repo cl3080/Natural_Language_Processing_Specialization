@@ -5,7 +5,15 @@ This repository contains the materials for natural language processing courses f
 Topics: Use logistic regression, naïve Bayes, and word vectors to implement sentiment analysis, complete analogies & translate words.
 
 ### Week1: Logistic Regression
-
+In this class, I learnt to extract features from text into numerical vectors, then build a binary classifer for tweets using a logistic regression.
+Topics:
+** Sentiment analysis
+** Logistic regression
+** Data pre-processing
+** Calculating word frequencies
+** Feature extraction
+** Vocabulary creation
+** Supervised learning
 #### Labs:
 * [**Language preprocessing**](http://htmlpreview.github.io/?https://github.com/cl3080/Natural_Language_Processing_Specialization/blob/main/NLP_with_Classification_and_Vectr_Spaces/Week1_SentimentAnalysiswithLogisticRegression/NLP_C1_W1_lecture_nb_01.html)  
 
@@ -37,3 +45,13 @@ Topics: Use logistic regression, naïve Bayes, and word vectors to implement sen
 #### Assignment:
 * [**Word Embeddings**](http://htmlpreview.github.io/?https://github.com/cl3080/Natural_Language_Processing_Specialization/blob/main/NLP_with_Classification_and_Vectr_Spaces/Week3_VectorSpaceModels/C1_W3_Assignment.html)  
 
+
+### Week4: Machine Translation
+
+#### Labs:
+* [**Rotation matrices in R2*](http://htmlpreview.github.io/?https://github.com/cl3080/Natural_Language_Processing_Specialization/blob/main/NLP_with_Classification_and_Vectr_Spaces/Week4_MachineTranslationandDocumentSearch/NLP_C1_W4_lecture_nb_01.html)  
+
+* [**Hash tables**](http://htmlpreview.github.io/?https://github.com/cl3080/Natural_Language_Processing_Specialization/blob/main/NLP_with_Classification_and_Vectr_Spaces/Week4_MachineTranslationandDocumentSearch/NLP_C1_W4_lecture_nb_02.html)  
+
+#### Assignment:
+* [**Word Translation**](http://htmlpreview.github.io/?https://github.com/cl3080/Natural_Language_Processing_Specialization/blob/main/NLP_with_Classification_and_Vectr_Spaces/Week4_MachineTranslationandDocumentSearch/C1_W4_Assignment.html)  
