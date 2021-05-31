@@ -54,8 +54,8 @@ Topics: Gradient descent, Approximate nearest neighbors, Locality sensitive hash
 Topics: Word2vec, Parts-of-Speech tagging, N-gram language models, autocorrect
 
 ### Week1: Autocorrect and minimum edit distance.
-In this class, I learnt to extract features from text into numerical vectors, then build a binary classifer for tweets using a logistic regression.  
-Topics: Sentiment analysis, Logistic regression, Data pre-processing, Calculating word frequencies, Feature extraction, Vocabulary creation, Supervised learning
+In this class, I learnt to apply different edit operations (delete, insert, replace) to build a simple auto correct model.
+Topics: Autocorrect, minimum edit distance, edit operations.
 #### Labs:
 * [**Building the Model-Lecture Exercise 01**](http://htmlpreview.github.io/?https://github.com/cl3080/Natural_Language_Processing_Specialization/blob/main/NLP_with_Probabilistic_Models/Week1_Autocorrect/NLP_C2_W1_lecture_nb_01.html)  
 
