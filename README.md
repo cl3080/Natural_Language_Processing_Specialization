@@ -47,4 +47,19 @@ Topics: Gradient descent, Approximate nearest neighbors, Locality sensitive hash
 * [**Hash tables**](http://htmlpreview.github.io/?https://github.com/cl3080/Natural_Language_Processing_Specialization/blob/main/NLP_with_Classification_and_Vectr_Spaces/Week4_MachineTranslationandDocumentSearch/NLP_C1_W4_lecture_nb_02.html)  
 
 #### Assignment:
-* [**Word Translation**](http://htmlpreview.github.io/?https://github.com/cl3080/Natural_Language_Processing_Specialization/blob/main/NLP_with_Classification_and_Vectr_Spaces/Week4_MachineTranslationandDocumentSearch/C1_W4_Assignment.html)  
+* [**Word Translation**](http://htmlpreview.github.io/?https://github.com/cl3080/Natural_Language_Processing_Specialization/blob/main/NLP_with_Classification_and_Vectr_Spaces/Week4_MachineTranslationandDocumentSearch/C1_W4_Assignment.html) 
+
+
+## Course 2: Natural Language Processing with Probabilistic Models
+Topics: Word2vec, Parts-of-Speech tagging, N-gram language models, autocorrect
+
+### Week1: Autocorrect and minimum edit distance.
+In this class, I learnt to extract features from text into numerical vectors, then build a binary classifer for tweets using a logistic regression.  
+Topics: Sentiment analysis, Logistic regression, Data pre-processing, Calculating word frequencies, Feature extraction, Vocabulary creation, Supervised learning
+#### Labs:
+* [**Building the Model-Lecture Exercise 01**](http://htmlpreview.github.io/?https://github.com/cl3080/Natural_Language_Processing_Specialization/blob/main/NLP_with_Probabilistic_Models/Week1_Autocorrect/NLP_C2_W1_lecture_nb_01.html)  
+
+* [**Building the Model-Lecture Exercise 02**](http://htmlpreview.github.io/?https://github.com/cl3080/Natural_Language_Processing_Specialization/blob/main/NLP_with_Probabilistic_Models/Week1_Autocorrect/NLP_C2_W1_lecture_nb_02.html) 
+
+#### Assignment:
+* [**Autocorrect**](http://htmlpreview.github.io/?https://github.com/cl3080/Natural_Language_Processing_Specialization/blob/main/NLP_with_Probabilistic_Models/Week1_Autocorrect/C2_W1_Assignment.html) 
