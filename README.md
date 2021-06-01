@@ -75,3 +75,16 @@ Topics: Markov chains, Hidden Markov models, Part-of-speech tagging, Viterbi alg
 
 #### Assignment:
 * [**Parts-of-Speech Tagging (POS)**](http://htmlpreview.github.io/?https://github.com/cl3080/Natural_Language_Processing_Specialization/blob/main/NLP_with_Probabilistic_Models/Week2_PartofSpeechTagging/C2_W2_Assignment.html) 
+
+### Week3: Autocomplete and Language Models
+Learnt about using N-gram language models by calculating sequence probabilities.
+Topics: Language modeling, perplexity, K-smooting, N-grams, Backoff, Tokenization.
+#### Labs:
+* [**N-grams Corpus preprocessing**](http://htmlpreview.github.io/?https://github.com/cl3080/Natural_Language_Processing_Specialization/blob/main/NLP_with_Probabilistic_Models/Week3_AutocompleteAndLanguageModels/NLP_C2_W3_lecture_nb_01.html)  
+
+* [**Building the language model**](http://htmlpreview.github.io/?https://github.com/cl3080/Natural_Language_Processing_Specialization/blob/main/NLP_with_Probabilistic_Models/Week3_AutocompleteAndLanguageModels/NLP_C2_W3_lecture_nb_02.html) 
+
+* [**Out of vocabulary words (OOV)**](http://htmlpreview.github.io/?https://github.com/cl3080/Natural_Language_Processing_Specialization/blob/main/NLP_with_Probabilistic_Models/Week3_AutocompleteAndLanguageModels/NLP_C2_W3_lecture_nb_03.html) 
+
+#### Assignment:
+* [**Language Models: Auto-Complete**](http://htmlpreview.github.io/?https://github.com/cl3080/Natural_Language_Processing_Specialization/blob/main/NLP_with_Probabilistic_Models/Week3_AutocompleteAndLanguageModels/C2_W3_Assignment.html) 
