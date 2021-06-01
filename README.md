@@ -50,11 +50,12 @@ Topics: Gradient descent, Approximate nearest neighbors, Locality sensitive hash
 * [**Word Translation**](http://htmlpreview.github.io/?https://github.com/cl3080/Natural_Language_Processing_Specialization/blob/main/NLP_with_Classification_and_Vectr_Spaces/Week4_MachineTranslationandDocumentSearch/C1_W4_Assignment.html) 
 
 
+
 ## Course 2: Natural Language Processing with Probabilistic Models
 Topics: Word2vec, Parts-of-Speech tagging, N-gram language models, autocorrect
 
 ### Week1: Autocorrect and minimum edit distance.
-In this class, I learnt to apply different edit operations (delete, insert, replace) to build a simple auto correct model.
+In this class, I learnt to apply different edit operations (delete, insert, switch, replace) to build a simple auto correct model.
 Topics: Autocorrect, minimum edit distance, edit operations.
 #### Labs:
 * [**Building the Model-Lecture Exercise 01**](http://htmlpreview.github.io/?https://github.com/cl3080/Natural_Language_Processing_Specialization/blob/main/NLP_with_Probabilistic_Models/Week1_Autocorrect/NLP_C2_W1_lecture_nb_01.html)  
@@ -63,3 +64,14 @@ Topics: Autocorrect, minimum edit distance, edit operations.
 
 #### Assignment:
 * [**Autocorrect**](http://htmlpreview.github.io/?https://github.com/cl3080/Natural_Language_Processing_Specialization/blob/main/NLP_with_Probabilistic_Models/Week1_Autocorrect/C2_W1_Assignment.html) 
+
+### Week2: Part of speech tagging
+In this class, the objective is to use Markov chains and hidden markov models to create part-of-speech tags for text corpus.
+Topics: Markov chains, Hidden Markov models, Part-of-speech tagging, Viterbi algorithm, Transition probabilities, Emission probabilities.
+#### Labs:
+* [**Parts-of-Speech Tagging - Working with tags and numpy**](http://htmlpreview.github.io/?https://github.com/cl3080/Natural_Language_Processing_Specialization/blob/main/NLP_with_Probabilistic_Models/Week2_PartofSpeechTagging/NLP_C2_W2_lecture_notebook_numpy.html)  
+
+* [**Parts-of-Speech Tagging - First Steps: Working with text files, Creating a vocabulary and Handling unknown words**](http://htmlpreview.github.io/?https://github.com/cl3080/Natural_Language_Processing_Specialization/blob/main/NLP_with_Probabilistic_Models/Week2_PartofSpeechTagging/NLP_C2_W2_lecture_notebook_strings_tags.html) 
+
+#### Assignment:
+* [**Parts-of-Speech Tagging (POS)**](http://htmlpreview.github.io/?https://github.com/cl3080/Natural_Language_Processing_Specialization/blob/main/NLP_with_Probabilistic_Models/Week2_PartofSpeechTagging/C2_W2_Assignment.html) 
