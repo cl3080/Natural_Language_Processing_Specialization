@@ -90,7 +90,7 @@ Topics: Language modeling, perplexity, K-smoothing, N-grams, Backoff, Tokenizati
 * [**Language Models: Auto-Complete**](http://htmlpreview.github.io/?https://github.com/cl3080/Natural_Language_Processing_Specialization/blob/main/NLP_with_Probabilistic_Models/Week3_AutocompleteAndLanguageModels/C2_W3_Assignment.html)
 
 ### Week4: Word embeddings with neural networks
-Learnt about how to use word embeddings to carry the semantic meaning of words and build continuous-bag-of-words model.
+Learnt about how to use word embeddings to carry the semantic meaning of words and build continuous-bag-of-words model.    
 Topics: Gradient descent, one-hot vectors, neural networks, word embeddings, continuous bag-of-words model, text pre-processing, tokenization.
 #### Labs:
 * [**Word Embeddings**](http://htmlpreview.github.io/?https://github.com/cl3080/Natural_Language_Processing_Specialization/blob/main/NLP_with_Probabilistic_Models/Week4_WordEmbeddingwithNeuralNetworks/NLP_C2_W4_lecture_nb_01.html)  
