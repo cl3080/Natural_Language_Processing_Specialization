@@ -105,3 +105,37 @@ Topics: Gradient descent, one-hot vectors, neural networks, word embeddings, con
 
 #### Assignment:
 * [**Word Embeddings**](http://htmlpreview.github.io/?https://github.com/cl3080/Natural_Language_Processing_Specialization/blob/main/NLP_with_Probabilistic_Models/Week4_WordEmbeddingwithNeuralNetworks/C2_W4_Assignment.html)
+
+
+
+## Course 3: Natural Language Processing with Sequence Models
+Topics: RNN, GRU, LSTM, NER
+
+### Week1: Neural Networks for Sentiment Analysis.
+Learnt about neural networks for deep learning, then build a sophisticated tweet classifier that places tweets into positive or negative sentiment categories, using a deep neural network.
+Topics: Feature extraction, Supervised machine learning, Text preprocessing, ReLU, Neural networks.
+#### Labs:
+* [**Introduction to Trax**](http://htmlpreview.github.io/?https://github.com/cl3080/Natural_Language_Processing_Specialization/blob/main/NLP_with_SequenceModels/Week1_NeuralNetworksforSentimentAnalysis/NLP_C3_W1_lecture_nb_01_trax_intro.html)  
+
+* [**Classes and Subclasses**](http://htmlpreview.github.io/?https://github.com/cl3080/Natural_Language_Processing_Specialization/blob/main/NLP_with_SequenceModels/Week1_NeuralNetworksforSentimentAnalysis/NLP_C3_W1_lecture_nb_02_classes.html)
+
+* [**Data Generators**](http://htmlpreview.github.io/?https://github.com/cl3080/Natural_Language_Processing_Specialization/blob/main/NLP_with_SequenceModels/Week1_NeuralNetworksforSentimentAnalysis/NLP_C3_W1_lecture_nb_03_data_generatos.html)
+
+#### Assignment:
+* [**Sentiment with Deep Neural Networks**](http://htmlpreview.github.io/?https://github.com/cl3080/Natural_Language_Processing_Specialization/blob/main/NLP_with_SequenceModels/Week1_NeuralNetworksforSentimentAnalysis/C3_W1_Assignment.html)  
+
+
+### Week2: Recurrent Neural Networks for Language Modeling.
+Learnt about the limitation of traditional language models and see how RNNs and GRUs use sequential data for text prediction.  
+Topics: N-grams, Gated recurrent units, Recurrent neural networks.
+#### Labs:
+* [**Hidden State Activation**](http://htmlpreview.github.io/?https://github.com/cl3080/Natural_Language_Processing_Specialization/blob/main/NLP_with_SequenceModels/Week2_N-gramsVSSequenceModels/C3_W2_Lecture_Notebook_Hidden_State_Activation.html)  
+
+* [**Working with JAX Numpy and Calculating Perplexity**](http://htmlpreview.github.io/?https://github.com/cl3080/Natural_Language_Processing_Specialization/blob/main/NLP_with_SequenceModels/Week2_N-gramsVSSequenceModels/C3_W2_lecture_notebook_perplexity.html)  
+
+* [**Vanilla RNNs, GRUs and the Scan Functions**](http://htmlpreview.github.io/?https://github.com/cl3080/Natural_Language_Processing_Specialization/blob/main/NLP_with_SequenceModels/Week2_N-gramsVSSequenceModels/C3_W2_lecture_notebook_RNNs.html)  
+
+* [**Creating a GRU model using Trax**](http://htmlpreview.github.io/?https://github.com/cl3080/Natural_Language_Processing_Specialization/blob/main/NLP_with_SequenceModels/Week2_N-gramsVSSequenceModels/C3_W2_lecture_notebook_GRU.html)
+
+#### Assignment:
+* [**Deep N-grams**](http://htmlpreview.github.io/?https://github.com/cl3080/Natural_Language_Processing_Specialization/blob/main/NLP_with_SequenceModels/Week2_N-gramsVSSequenceModels/C3_W2_Assignment.html)
