@@ -139,3 +139,12 @@ Topics: N-grams, Gated recurrent units, Recurrent neural networks.
 
 #### Assignment:
 * [**Deep N-grams**](http://htmlpreview.github.io/?https://github.com/cl3080/Natural_Language_Processing_Specialization/blob/main/NLP_with_SequenceModels/Week2_N-gramsVSSequenceModels/C3_W2_Assignment.html)
+
+### Week3: LSTMs and Named Entity Recognition.
+Learnt about how long short-term memory units (LSTMs) solve the vanishing gradient problem, and how Named Entity Recognition systems quickly extract important information from text.    
+Topics: Vanishing gradients, Named entity recognition, LSTMs, Feature extraction, Part-of-speech tagging, Data generators.
+#### Labs:
+* [**Vanishing Gradients**](http://htmlpreview.github.io/?https://github.com/cl3080/Natural_Language_Processing_Specialization/blob/main/NLP_with_SequenceModels/Week3_LSTMsandNamedEntityRecognition/C3_W3_Lecture_Notebook_Vanishing_Gradients.html)  
+
+#### Assignment:
+* [**Named Entity Recognition**](http://htmlpreview.github.io/?https://github.com/cl3080/Natural_Language_Processing_Specialization/blob/main/NLP_with_SequenceModels/Week3_LSTMsandNamedEntityRecognition/C3_W3_Assignment.html)
